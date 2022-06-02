@@ -1,0 +1,23 @@
+:root {
+  --pri-color: black;
+  --sec-color: #ffffff;
+  --but-color: #f72585;
+  --buc-color: linear-gradient(1deg, #b7b7b2 0%, #ffffff 100%);
+  --rot-color: #ecf0f1;
+  --nav--color: rgba(0, 0, 0, 0.15);
+  --hed--color: #f1f2f6;
+  --tag-color: #c7ecee;
+  --spa-color: #06d6a0;
+}
+
+.lightmode {
+  --pri-color: #ffffff;
+  --sec-color: black;
+  --but-color: #39bda7;
+  --buc-color: linear-gradient(1deg, #0b092b 0%, #000000 49%);
+  --tag-color: #2c3e50;
+  --rot-color: #9b59b6;
+  --nav--color: rgba(243, 243, 243, 0.5);
+  --hed--color: #0f1123;
+  --spa-color: #ffe61b;
+}
